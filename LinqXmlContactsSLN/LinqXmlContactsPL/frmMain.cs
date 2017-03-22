@@ -4,6 +4,11 @@ using System.Windows.Forms;
 
 namespace LinqXmlContactsPL
 {
+    //*******************************************************************
+    //****************** Created by kobi keren **************************
+    //******************     on 22/03/2017     **************************
+    //*******************************************************************
+
     public partial class frmMain : Form
     {
         LinqXmlContactsBLManager blManager = new LinqXmlContactsBLManager();
